@@ -1,13 +1,55 @@
 This will be my tagline:
 
+Option 1:
+“If creativity reflects the process of problem-solving, then it is a professional paintbrush.”-Benjamin Zou
+Option 2:
+“Good design is good business”- Thomas John Watson Jr
+Option3:
+“Less is more.” My interpretation is “designers think more, users think
+less”, 	the design is all about the user's experience.
+
+
 This will be my introductory text, a paragraph(s) totalling at least 150 words that welcome user, state the goal of the portfolio website, and describe my ambitions and something positive I feel about working in web:
 
+Option 1:
+	Hello, I am Benjamin Zou, a web designer at the Multimedia Technologies program concentrating in Web Design and Development at Pittsburgh Technical College. I am a creative thinker and a good listener. I am good at creating meaningful design solutions and enjoy challenges. I will do everything in my power to make sure you are satisfied with your project. I believe the UX (User Experience) is a golden rule for the overall accessibility of the website. I interpret “Less is More” as “designers think more, users think less." I will always ensure the logical and clean content layouts in each web project that satisfy the general audience as known as the streamlined experience. I believe “Good Design is Good Business.” Design should align with business strategies because a website is a business head.
+
+Option 2
+	 “Good design is good business.” A good design should align with business strategies; it should solve problems and achieve business goals, not only about fancy fashion. Hello, I am Benjamin Zou, a web designer. I am a creative thinker and a good listener. I am good at creating meaningful design solutions and enjoy challenges. I speak Chinese, so I can help to develop a bilingual website. My design principle is “Less is more,” focusing on user experiences is the golden role for all design pieces. 
+
+Option 3
+	“Customer is god.” Hello, god, this Benjamin Zou, a web designer. I am a reliable employee and student with excellent attendance and recognition for performance. I speak Chinese, so I can help to develop bilingual websites. I believe “Good design is good business,” the web design should align with the business strategies, not fancy fashion. My design principle is “Less is more”; focusing on user experiences is the golden role for all designs.  Pittsburgh Technical College has prepared me with practical skills, from user experiences to project management. I am looking forward to working with you.
+
+
 Here is a piece description for one piece that my portfolio will show, following the format outlined on Blackboard: 
-Title & Type of Site:
-Talent Showcased: 
-Objective: 
-Target Audience: 
+Title & Type of Site: Miles to Remember – Event Website
+Talent Showcased: Design, Markup, Front-End, Responsive Layout, Animatio
+Objective: Information about the charity Event – Miles to Remember - held by a local Church to increase awareness of Convincing people to support IDD (Intellectual and Developmental) guests by participating in this charity event.
+Target Audience: People who have special needs and their family, Volunteer, local community.
 Highlights: 
-1)
-2)
-3)
+•Green, yellow analogous color are used to symbolize hope, sunshine, and joy.
+•Hovered effects at three images’ caption to increase the interactivity at the page while saving the space
+•The font of the slogan” RUN WITH US TO SUPPORT THOSE WITH DISABILITIES” like an underlined text to inform this charity event is a teamwork movement.
+•The animated banner on the header is to inform the audience to remember the time and location of the event as well as the persuasive purpose. 
+•Last year’s video to show what does the event look like in the previous year.
+
+Title & Type of Site:Jack’s Story (Studying in the U.S.) – Blog Website
+Talent Showcased: Interactivity, Animation, Responsive layout, E-commerce, Familiarity with Frameworks
+Objective: Blog website to share information with visitors; e-commerce
+Target Audience: Students or people who are interested in different culture’s perspectives
+Highlights: 
+•The animated subtitle “Studying in the U.S.” – move from right to left as the user loads the page.
+•Videos (muted) slide on the home page.
+•audio and video to present the beauty of Pittsburgh.
+•Links were embedded in the images and text that enhance the user’s experience.
+
+Title & Type of Site:T-go Solutions ONLINE PRINTSHOP – Online Shopping Website
+Talent Showcased: Interactivity, Design, Responsive layout, Sever-side Development, e-commerce
+Objective: Provide the textile printing solution for DIY enthusiasts.
+Target Audience: People who have printers at home
+Highlights: 
+•Grid Layout in the "Product Catalog" page to fit a variety of screen devices.
+•Poster design on the homepage
+•Visitors can click on each product to get further information and place an order.
+•Customers can register and purchase products.
+
